@@ -4,6 +4,8 @@
 - 🌱 Currently upskilling in **Java, MySQL, Python**
 
 - 👨‍💻 All of my projects are available [here](https://kristofblog.com).
+- 💬 Feel free to download my CV. (https://github.com/Kris1825/Resume-2024/blob/87f17b76b4ed933b85c51eefa3e07ee687af9cc2/Copy%20of%20Gray%20Modern%20IT%20Professional%20Without%20Photo%20Resume.pdf)
+
 
 
 <div align="center">
