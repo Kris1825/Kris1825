@@ -3,7 +3,7 @@
 
 - 🌱 Currently upskilling in **Java, MySQL, Python**
 
-- 👨‍💻 All of my projects are available [here](https://kristofblog.com).
+- 👨‍💻 All of my projects are available [here](https://krisportfolios.netlify.app).
 - 💬 Feel free to download my CV. 
 
 
