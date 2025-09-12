@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Krzysztof</h1>
 <h3 align="center">A skilled IT support specialist from the UK</h3>
 
-- 🌱 Currently upskilling in **Java, MySQL, Python**
+- 🌱 Currently upskilling in **Java, MySQL, Python, LLM Engineering**
 
-- 👨‍💻 All of my projects are available [here](https://krisportfolios.netlify.app).
+- 👨‍💻 My projects are available [here](https://krisportfolios.netlify.app).
 - 💬 Feel free to download my CV. 
 
 
