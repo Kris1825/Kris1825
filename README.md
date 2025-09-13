@@ -5,20 +5,21 @@
 - 👨‍💻 My Full Stack projects are available [here](https://krisportfolios.netlify.app).
 - 💬 Feel free to download my [CV](https://github.com/Kris1825/Resume-2024/blob/main/Copy%20of%20Gray%20Modern%20IT%20Professional%20Without%20Photo%20Resume.pdf). 
 
-## 🚀 What I'm working on
+ **🚀 What I'm working on**
 - Building real-world AI projects  
   - 8 end-to-end LLM apps (RAG, fine-tuning, multi-agent systems)  
 - Expanding skills in **Python, Java, SQL, PyTorch, TensorFlow, and Cloud (AWS/Azure)**  
 - Exploring **AI deployment, MLOps, and scalable backend systems**
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 - **Languages:** Python, Java, SQL  
 - **AI/ML:** TensorFlow, PyTorch, scikit-learn, Hugging Face, LangChain  
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn, FAISS  
 - **Cloud & Deployment:** AWS, Azure, Docker, Streamlit, Gradio, FastAPI  
 - **Other:** Git, GitHub, Jupyter, REST APIs
 
-## 🌱 Currently Learning
+
+**🌱 Currently Learning**
 - Advanced **AI Engineering workflows** (RAG, fine-tuning, agents)  
 - **MLOps** for model deployment and monitoring  
 - Scalable systems with **Java + SQL + Cloud**
