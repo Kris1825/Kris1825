@@ -4,7 +4,7 @@
 - 🌱 Currently upskilling in **Java, MySQL, Python, LLM Engineering**
 
 - 👨‍💻 My projects are available [here](https://krisportfolios.netlify.app).
-- 💬 Feel free to download my CV. 
+- 💬 Feel free to download my [CV](https://github.com/Kris1825/Resume-2024/blob/main/Copy%20of%20Gray%20Modern%20IT%20Professional%20Without%20Photo%20Resume.pdf). 
 
 
 
